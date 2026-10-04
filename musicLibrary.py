@@ -2,7 +2,7 @@ from urllib.parse import quote_plus
 
 def yt(query):
     return query
-
+# Add your favourite songs these were mine
 music = {
     "case": yt("Case Tuphka Anthem Yo Yo Honey Singh"),
     "tuphka anthem": yt("Case Tuphka Anthem Yo Yo Honey Singh"),
