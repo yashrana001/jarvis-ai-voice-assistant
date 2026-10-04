@@ -4,8 +4,8 @@ Jarvis is a voice-controlled desktop assistant built with Python. Say **"Jarvis"
 
 ## ✨ Features
 
-- 🎵 **Music player**: say "play mini cooper" and the song opens on YouTube
-- 🤖 **AI powered**: ask anything and get a short spoken answer from Google Gemini
+- 🎵 **Music player**: say "play "song name " and the song opens on YouTube
+- 🤖 **AI powered**: ask anything and get a short spoken answer from Google Gemini(but use your own API key)
 - 😂 **Jokes**: say "tell me a joke" for a random joke
 - 📰 **News**: reads out the top headlines
 - 🧠 **Quiz mode**: pick any subject and Jarvis asks you questions and checks your spoken answers
@@ -36,7 +36,7 @@ Jarvis is a voice-controlled desktop assistant built with Python. Say **"Jarvis"
 
 1. Clone the repo:
    ```
-   git clone https://github.com/YOURUSERNAME/jarvis-voice-assistant.git
+   git clone https://github.com/yashrana001/jarvis-voice-assistant.git
    cd jarvis-voice-assistant
    ```
 2. Install the system tools (Mac):
